@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Spawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\bullet_rules.cs" Line="27" Column="27" />
+      <File FileName="Assets\Scripts\player.cs" Line="46" Column="32" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="92" Column="46" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="27" Column="137" />
+      <File FileName="Assets\Scripts\quille_comportement.cs" Line="43" Column="2" />
+      <File FileName="Assets\Materials\Shaders\Tube_glow.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShootForward.cs" Line="8" Column="2" />
+      <File FileName="Assets\Scripts\section_turn.cs" Line="3" Column="1" />
+      <File FileName="Assets\launch.cs" Line="14" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

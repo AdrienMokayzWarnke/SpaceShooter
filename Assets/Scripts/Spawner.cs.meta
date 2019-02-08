@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f7c5797e5eba6b47852787b0059aa0d
+timeCreated: 1549409400
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - quille: {fileID: 1052796189847618, guid: f371574e3ad4666419233bebd55db2b3, type: 2}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
